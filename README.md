@@ -6,3 +6,6 @@ Responsive Login &amp; Registration Form Using HTML &amp; CSS &amp; JS _ Sliding
 ![](https://github.com/FranciscoSanvicente/Sign-In-Sign-Up-Form-Sliding/blob/main/Captura2.PNG)
 
 ![](https://github.com/FranciscoSanvicente/Sign-In-Sign-Up-Form-Sliding/blob/main/Captura3.PNG)
+
+![](https://github.com/FranciscoSanvicente/Sign-In-Sign-Up-Form-Sliding/blob/main/Captura4.PNG)
+
